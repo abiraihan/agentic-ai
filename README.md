@@ -1,2 +1,0 @@
-# agentic-ai
-Agentic AI
